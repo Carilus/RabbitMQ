@@ -1,26 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\denni\\source\\repos\\RabbitTest\\SenderWebApp\\SenderWebApp.csproj": {}
+    "C:\\Users\\Arifa\\source\\repos\\RabbitMQ\\SenderWebApp\\SenderWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\denni\\source\\repos\\RabbitTest\\CommonWork\\CommonWork.csproj": {
+    "C:\\Users\\Arifa\\source\\repos\\RabbitMQ\\CommonWork\\CommonWork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\denni\\source\\repos\\RabbitTest\\CommonWork\\CommonWork.csproj",
+        "projectUniqueName": "C:\\Users\\Arifa\\source\\repos\\RabbitMQ\\CommonWork\\CommonWork.csproj",
         "projectName": "CommonWork",
-        "projectPath": "C:\\Users\\denni\\source\\repos\\RabbitTest\\CommonWork\\CommonWork.csproj",
-        "packagesPath": "C:\\Users\\denni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\denni\\source\\repos\\RabbitTest\\CommonWork\\obj\\",
+        "projectPath": "C:\\Users\\Arifa\\source\\repos\\RabbitMQ\\CommonWork\\CommonWork.csproj",
+        "packagesPath": "C:\\Users\\Arifa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Arifa\\source\\repos\\RabbitMQ\\CommonWork\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\denni\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Arifa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -65,23 +72,30 @@
         }
       }
     },
-    "C:\\Users\\denni\\source\\repos\\RabbitTest\\ReceiverWebApp\\ReceiverWebApp.csproj": {
+    "C:\\Users\\Arifa\\source\\repos\\RabbitMQ\\ReceiverWebApp\\ReceiverWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\denni\\source\\repos\\RabbitTest\\ReceiverWebApp\\ReceiverWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\Arifa\\source\\repos\\RabbitMQ\\ReceiverWebApp\\ReceiverWebApp.csproj",
         "projectName": "ReceiverWebApp",
-        "projectPath": "C:\\Users\\denni\\source\\repos\\RabbitTest\\ReceiverWebApp\\ReceiverWebApp.csproj",
-        "packagesPath": "C:\\Users\\denni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\denni\\source\\repos\\RabbitTest\\ReceiverWebApp\\obj\\",
+        "projectPath": "C:\\Users\\Arifa\\source\\repos\\RabbitMQ\\ReceiverWebApp\\ReceiverWebApp.csproj",
+        "packagesPath": "C:\\Users\\Arifa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Arifa\\source\\repos\\RabbitMQ\\ReceiverWebApp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\denni\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Arifa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -89,8 +103,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\denni\\source\\repos\\RabbitTest\\CommonWork\\CommonWork.csproj": {
-                "projectPath": "C:\\Users\\denni\\source\\repos\\RabbitTest\\CommonWork\\CommonWork.csproj"
+              "C:\\Users\\Arifa\\source\\repos\\RabbitMQ\\CommonWork\\CommonWork.csproj": {
+                "projectPath": "C:\\Users\\Arifa\\source\\repos\\RabbitMQ\\CommonWork\\CommonWork.csproj"
               }
             }
           }
@@ -141,23 +155,30 @@
         }
       }
     },
-    "C:\\Users\\denni\\source\\repos\\RabbitTest\\SenderWebApp\\SenderWebApp.csproj": {
+    "C:\\Users\\Arifa\\source\\repos\\RabbitMQ\\SenderWebApp\\SenderWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\denni\\source\\repos\\RabbitTest\\SenderWebApp\\SenderWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\Arifa\\source\\repos\\RabbitMQ\\SenderWebApp\\SenderWebApp.csproj",
         "projectName": "SenderWebApp",
-        "projectPath": "C:\\Users\\denni\\source\\repos\\RabbitTest\\SenderWebApp\\SenderWebApp.csproj",
-        "packagesPath": "C:\\Users\\denni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\denni\\source\\repos\\RabbitTest\\SenderWebApp\\obj\\",
+        "projectPath": "C:\\Users\\Arifa\\source\\repos\\RabbitMQ\\SenderWebApp\\SenderWebApp.csproj",
+        "packagesPath": "C:\\Users\\Arifa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Arifa\\source\\repos\\RabbitMQ\\SenderWebApp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\denni\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Arifa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -165,11 +186,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\denni\\source\\repos\\RabbitTest\\CommonWork\\CommonWork.csproj": {
-                "projectPath": "C:\\Users\\denni\\source\\repos\\RabbitTest\\CommonWork\\CommonWork.csproj"
+              "C:\\Users\\Arifa\\source\\repos\\RabbitMQ\\CommonWork\\CommonWork.csproj": {
+                "projectPath": "C:\\Users\\Arifa\\source\\repos\\RabbitMQ\\CommonWork\\CommonWork.csproj"
               },
-              "C:\\Users\\denni\\source\\repos\\RabbitTest\\ReceiverWebApp\\ReceiverWebApp.csproj": {
-                "projectPath": "C:\\Users\\denni\\source\\repos\\RabbitTest\\ReceiverWebApp\\ReceiverWebApp.csproj"
+              "C:\\Users\\Arifa\\source\\repos\\RabbitMQ\\ReceiverWebApp\\ReceiverWebApp.csproj": {
+                "projectPath": "C:\\Users\\Arifa\\source\\repos\\RabbitMQ\\ReceiverWebApp\\ReceiverWebApp.csproj"
               }
             }
           }
@@ -184,6 +205,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Hangfire.MySqlStorage": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
             "MassTransit.AspNetCore": {
               "target": "Package",
               "version": "[7.3.1, )"
